@@ -1,0 +1,9 @@
+BOSCAR research on the effect of lockout law: https://www.bocsar.nsw.gov.au/Pages/bocsar_pages/Alcohol_Related_Violence.aspx
+news.google.com: this only provide news for the last year, not very useful
+https://trends.google.com: more useful, can search related terms, using package gtrendsR
+Thomas Kelly: July 7, 2012, 10pm
+Daniel Christie: 31/12/2013, 9pm
+Lockout law : 1/2/2014: lock out new customers from 1.30am, cease alcohol trading from 3am
+	region bounded by Kings Cross, Darlinghurst, Cockle Bay, The Rocks and Haymarket, including parts of Surry Hills
+	exemptions: entertainment precinct that have poker machines installed, ends at Darling Harbour and does not include The Star Casino
+
